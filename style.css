@@ -8615,7 +8615,6 @@ body .search-modal .close:hover {
 .rs-partner.partner-main-home .partner-content-widget .logo-img a .mains-logos {
   transition: all 0.3s ease-in-out;
   display: block;
-  filter: grayscale(1);
 }
 .rs-partner.partner-main-home .partner-content-widget .logo-img a:hover .hovers-logos {
   display: block;
